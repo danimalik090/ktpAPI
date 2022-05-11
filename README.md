@@ -23,4 +23,18 @@ Clone the repositogy on the local machine
 
 - Load the project in Pycharm
 - Navigate to `ktpAPI/itemList.py` and right on the itemList.py and select `run itemList.py`
+- Project will be deployed on `127.0.0.1:5000`
+- Alternatively you can access the API using Postman
+
+## API endpoint
+
+- `GET` 
+- `POST`
+- `DELETE`
+
+## Interface of API
+
+![API](https://github.com/danimalik090/ktpAPI/blob/main/Image1.PNG)
+
+
 
