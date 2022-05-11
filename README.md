@@ -35,6 +35,7 @@ Clone the repositogy on the local machine
 ## Interface of API
 
 ![API Homepage](https://github.com/danimalik090/ktpAPI/blob/main/Image1.PNG)
+----
 ![API Additem](https://github.com/danimalik090/ktpAPI/blob/main/image2.PNG)
 
 
