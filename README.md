@@ -21,5 +21,6 @@ Clone the repositogy on the local machine
 
 ## How to Deploy
 
-
+- Load the project in Pycharm
+- Navigate to `ktpAPI/itemList.py` and right on the itemList.py and select `run itemList.py`
 
