@@ -5,8 +5,8 @@ Description ....
 
 ## Pre-requisites
 
-python, Flask, requests, urllib3 
-Optionally Install Python IDE e.g Pycharm
+- `python 3.10`, `Flask 2.1.2`, `requests 2.27.1`
+- Optionally Install Python IDE e.g Pycharm
 
 ## Project Structure
 
