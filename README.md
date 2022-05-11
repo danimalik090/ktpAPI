@@ -1,6 +1,10 @@
 # Knowledge Transfer Partnership (RGU and Partners)
 
-Description ....
+- API loads data from github raw path in json into a list
+- API provides GET endpoint to retrieve data
+- API provides POST endpoint to store data
+- API provides DELETE endpoint to remove data
+- Client side has a refresh and pre-load button
 
 
 ## Pre-requisites
